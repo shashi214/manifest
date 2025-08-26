@@ -1021,5 +1021,5 @@
     <copyfile src="lk_inc.mk" dest="lk_inc.mk" />
   </project>
   <!-- END open-source projects -->
-  <include name="obsolete.xml"/>
+  <include name="vendor-main.xml"/>
 </manifest>
